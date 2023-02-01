@@ -1,4 +1,4 @@
-id,Districts,Confirmed,Recovered,Deaths,Active
+id,districts,confirmed,recovered,deaths,active
 100,Ant,62971,18213,2828,22312
 101,Sab,45442,95840,1042,87618
 102,Bel,52695,15537,4110,82891
